@@ -1,0 +1,5 @@
+{
+  "name": "Busca de Comprador por E-mail",
+  "description": "Sistema para buscar Código de Referência e Nome do Comprador através do e-mail, utilizando dados de um arquivo CSV.",
+  "requestFramePermissions": []
+}
